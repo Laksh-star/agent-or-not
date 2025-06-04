@@ -98,3 +98,8 @@ Shyjal
 
 
 
+
+## Related Documentation
+
+For a prototype delegator and architecture overview see [docs/task-delegation-architecture.md](docs/task-delegation-architecture.md).
+
